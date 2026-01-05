@@ -3,6 +3,8 @@ ATM Simulator System – Python Project
 
 This is a console-based ATM Simulator application built using core Python.
 It simulates real-world ATM operations and focuses on logic building, OOPs, and error handling.
+This project is a console-based ATM Simulator application developed using Python and MySQL.
+It simulates real-world ATM operations with database connectivity, where all user data and transaction history are stored securely in a database.
 
 Technologies Used:
 
@@ -28,6 +30,8 @@ File-based data storage
 
 Error handling for invalid input and insufficient balance
 
+
+
 Testing Approach
 
 Designed manual test cases for ATM workflows
@@ -36,3 +40,4 @@ Validated edge cases such as wrong PIN and low balance
 
 How to Run the Project
 python atm_simulator.py
+
